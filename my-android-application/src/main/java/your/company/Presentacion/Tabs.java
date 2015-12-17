@@ -35,21 +35,17 @@ public class Tabs extends FragmentActivity implements ActionBar.TabListener{
                 actionbar.setSelectedNavigationItem(arg0);
             }
             public void onPageScrolled(int arg0, float arg1, int arg2) {
-                // TODO Auto-generated method stub
             }
             public void onPageScrollStateChanged(int arg0) {
-                // TODO Auto-generated method stub
             }
         });
     }
     public void onTabReselected(Tab tab, FragmentTransaction ft) {
-        // TODO Auto-generated method stub
     }
     public void onTabSelected(Tab tab, FragmentTransaction ft) {
         viewpager.setCurrentItem(tab.getPosition());
     }
     public void onTabUnselected(Tab tab, FragmentTransaction ft) {
-        // TODO Auto-generated method stub
     }
 
 }

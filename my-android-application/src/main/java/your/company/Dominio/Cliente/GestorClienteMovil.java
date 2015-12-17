@@ -31,10 +31,10 @@ public class GestorClienteMovil {
 	 * 
 	 * @param bar
 	 */
-//	public ArrayList<Tapa> consultarTapas(Bar bar) {
-//        GestorConsultarTapas gestorConsultarTapas = new GestorConsultarTapas();
-//        return gestorConsultarTapas.consultarTapas(bar);
-//	}
+	public ArrayList<Tapa> consultarTapas(Bar bar) {
+        GestorConsultarTapas gestorConsultarTapas = new GestorConsultarTapas();
+        return gestorConsultarTapas.consultarTapas(bar);
+	}
 
 	/**
 	 *
@@ -54,10 +54,10 @@ public class GestorClienteMovil {
 //
 //	}
 
-//	public boolean anadirTapa(Tapa tapa){
-//        GestorAnadirTapa gestorAnadirTapa = new GestorAnadirTapa();
-//        return gestorAnadirTapa.anadirTapa(tapa);
-//	}
+	public boolean anadirTapa(Tapa tapa){
+        GestorAnadirTapa gestorAnadirTapa = new GestorAnadirTapa();
+        return gestorAnadirTapa.anadirTapa(tapa);
+	}
 //
 //    public boolean eliminarTapa(Tapa tapa){
 //        GestorEliminarTapa gestorEliminarTapa = new GestorEliminarTapa();

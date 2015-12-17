@@ -25,7 +25,7 @@ public class MainActivityTapearte extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        //TODO getMenuInflater().inflate(R.menu.menu_tapearte, menu);
+         getMenuInflater().inflate(R.menu.menu_tapearte, menu);
         return true;
     }
 

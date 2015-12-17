@@ -20,16 +20,43 @@
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Comunicacion/SocketMovil.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/Administrador.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/Bar.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/GestorAnadirTapa.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/GestorAutenticarMovil.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/GestorClienteMovil.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/GestorConsultarBares.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/GestorConsultarTapaPorCodigo.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/GestorConsultarTapas.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/Tapa.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/Usuario.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/Administrador.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/AdministradorDAO.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/Bar.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/BarDAO.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorAnadirBarServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorAnadirTapaServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorAnadirTapaServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorAutenticarServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorClienteMovil.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorComentarServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorConsultarTapasServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorEliminarTapaServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorRegistrarServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorServidor.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/GestorVotarServer.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/Tapa.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/TapaDAO.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/Usuario.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Servidor/UsuarioDAO.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Persistencia/Agente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/Anadir_tapa.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/FragmentBuscarTapas.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/FragmentPageAdapter.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/IU_Movil.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/IU_Movil_Premium.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/IU_Propietario.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/MainActivityTapearte.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/Menu_IniciarSesion.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/Menu_MostrarTapas.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/Tabs.java" charset="windows-1252" />
   </component>
 </project>
