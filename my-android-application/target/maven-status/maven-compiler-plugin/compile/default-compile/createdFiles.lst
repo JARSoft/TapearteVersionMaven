@@ -33,6 +33,7 @@ your\company\Dominio\Servidor\GestorAutenticarServer.class
 your\company\Dominio\Servidor\Usuario.class
 your\company\Manifest.class
 your\company\Presentacion\Anadir_tapa$4.class
+your\company\Dominio\Cliente\GestorComentar.class
 your\company\Dominio\Cliente\Usuario.class
 your\company\Presentacion\Menu_IniciarSesion$2.class
 your\company\Dominio\Cliente\GestorVotar.class
