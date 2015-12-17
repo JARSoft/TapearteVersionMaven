@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/layout/activity_tapearte.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/anadir_tapa_layout.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/autenticar_poplayout.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/buscartapas_layout.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/eliminar_tapa_layout.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/interfaz_inicial.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/interfaz_inicial_premium.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/interfaz_inicial_propietario.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/mostrartapas_poplayout.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/registrar_poplayout.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/votando.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/layout/votar_layout.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/menu/menu_listadetapasporbar.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/menu/menu_tapearte.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/res/menu/pop_menu.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Comunicacion/SocketMovil.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/Administrador.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/Bar.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/GestorAutenticarMovil.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/GestorClienteMovil.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/Tapa.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Dominio/Cliente/Usuario.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/FragmentPageAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/IU_Movil.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/IU_Movil_Premium.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/IU_Propietario.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/MainActivityTapearte.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/Menu_IniciarSesion.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/your/company/Presentacion/Tabs.java" charset="windows-1252" />
+  </component>
+</project>

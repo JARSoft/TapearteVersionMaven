@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="your.company"
+    android:versionCode="1"
+    android:versionName="1" >
+
+    <!--<uses-sdk-->
+        <!--android:minSdkVersion="8"-->
+        <!--android:targetSdkVersion="21" />-->
+    <uses-sdk android:minSdkVersion="22"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Presentacion.MainActivityTapearte" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".Presentacion.IU_Movil" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+                android:name=".Presentacion.Menu_IniciarSesion"
+                android:label="@string/app_name" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--<activity-->
+                <!--android:name=".Presentacion.IU_Movil"-->
+                <!--android:label="@string/app_name" >-->
+            <!--<intent-filter>-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+
+        <!--<activity-->
+                <!--android:name=".Presentacion.Menu_Votar"-->
+                <!--android:label="@string/app_name" >-->
+            <!--<intent-filter>-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+
+        <activity
+                android:name=".Presentacion.IU_Movil_Premium"
+                android:label="@string/app_name" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+                android:name=".Presentacion.Tabs"
+                android:label="@string/app_name" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--<activity-->
+                <!--android:name=".Presentacion.Menu_MostrarTapas"-->
+                <!--android:label="@string/app_name" >-->
+            <!--<intent-filter>-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+
+        <!--<activity-->
+                <!--android:name=".Presentacion.Menu_Registrarse"-->
+                <!--android:label="@string/app_name" >-->
+            <!--<intent-filter>-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+
+        <activity
+                android:name=".Presentacion.IU_Propietario"
+                android:label="@string/app_name" >
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--<activity-->
+                <!--android:name=".Presentacion.Eliminar_tapa"-->
+                <!--android:label="@string/app_name" >-->
+            <!--<intent-filter>-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+
+        <!--<activity-->
+                <!--android:name=".Presentacion.Anadir_tapa"-->
+                <!--android:label="@string/app_name" >-->
+            <!--<intent-filter>-->
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+
+    </application>
+
+</manifest>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="IDBar"
+        android:id="@+id/idBar"
+        android:layout_below="@+id/textIdentificador"
+        android:layout_toStartOf="@+id/textBar"
+        android:layout_marginTop="101dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/textBar"
+        android:layout_below="@+id/idBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="53dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textIdentificador"
+        android:inputType="number"
+        android:layout_marginTop="46dp"
+        android:layout_below="@+id/id"
+        android:layout_alignEnd="@+id/textBar"
+        android:layout_alignStart="@+id/textBar" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirmar"
+        android:id="@+id/OK"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Identificador"
+        android:id="@+id/id"
+        android:layout_marginTop="78dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/idBar" />
+
+</RelativeLayout>
