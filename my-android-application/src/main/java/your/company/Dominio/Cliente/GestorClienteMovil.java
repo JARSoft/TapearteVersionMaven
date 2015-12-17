@@ -58,10 +58,10 @@ public class GestorClienteMovil {
         GestorAnadirTapa gestorAnadirTapa = new GestorAnadirTapa();
         return gestorAnadirTapa.anadirTapa(tapa);
 	}
-//
-//    public boolean eliminarTapa(Tapa tapa){
-//        GestorEliminarTapa gestorEliminarTapa = new GestorEliminarTapa();
-//        return gestorEliminarTapa.eliminarTapa(tapa);
-//    }
+
+    public boolean eliminarTapa(Tapa tapa){
+        GestorEliminarTapa gestorEliminarTapa = new GestorEliminarTapa();
+        return gestorEliminarTapa.eliminarTapa(tapa);
+    }
 
 }

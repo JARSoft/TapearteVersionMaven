@@ -7,9 +7,11 @@ your\company\Dominio\Servidor\GestorComentarServer.class
 your\company\Presentacion\MainActivityTapearte.class
 your\company\Dominio\Cliente\GestorAnadirTapa.class
 your\company\BuildConfig.class
+your\company\Presentacion\Eliminar_tapa$3$1.class
 your\company\R$string.class
 your\company\Presentacion\Menu_MostrarTapas$1$1.class
 your\company\Presentacion\Tabs$1.class
+your\company\Dominio\Cliente\GestorEliminarTapa.class
 your\company\Presentacion\Anadir_tapa$1.class
 your\company\Presentacion\Menu_IniciarSesion.class
 your\company\Dominio\Servidor\GestorRegistrarServer.class
@@ -22,6 +24,7 @@ your\company\Presentacion\IU_Movil$1.class
 your\company\Presentacion\Menu_IniciarSesion$3$1.class
 your\company\Dominio\Servidor\GestorVotarServer.class
 your\company\Dominio\Cliente\GestorAutenticarMovil.class
+your\company\Presentacion\Eliminar_tapa$1.class
 your\company\Dominio\Servidor\GestorAutenticarServer.class
 your\company\Dominio\Servidor\Usuario.class
 your\company\Manifest.class
@@ -34,6 +37,7 @@ your\company\R$dimen.class
 your\company\Persistencia\Agente.class
 your\company\Presentacion\Anadir_tapa$3.class
 your\company\R$menu.class
+your\company\Presentacion\Eliminar_tapa$2.class
 your\company\Presentacion\Anadir_tapa.class
 your\company\Presentacion\IU_Movil_Premium.class
 your\company\Dominio\Servidor\Bar.class
@@ -47,10 +51,12 @@ your\company\Presentacion\IU_Movil.class
 your\company\Dominio\Cliente\GestorClienteMovil.class
 your\company\Presentacion\Menu_IniciarSesion$1.class
 your\company\R$style.class
+your\company\Presentacion\Eliminar_tapa.class
 your\company\R.class
 your\company\Presentacion\FragmentBuscarTapas$1.class
 your\company\Dominio\Cliente\GestorConsultarTapaPorCodigo.class
 your\company\Dominio\Servidor\BarDAO.class
+your\company\Presentacion\Eliminar_tapa$3.class
 your\company\Presentacion\Tabs.class
 your\company\Dominio\Servidor\UsuarioDAO.class
 your\company\Dominio\Servidor\Tapa.class
