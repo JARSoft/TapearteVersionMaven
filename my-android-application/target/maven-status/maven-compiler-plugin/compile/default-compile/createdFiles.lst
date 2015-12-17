@@ -8,10 +8,12 @@ your\company\Presentacion\MainActivityTapearte.class
 your\company\Dominio\Cliente\GestorAnadirTapa.class
 your\company\BuildConfig.class
 your\company\Presentacion\Eliminar_tapa$3$1.class
+your\company\Presentacion\Menu_Registrarse$1.class
 your\company\R$string.class
 your\company\Presentacion\Menu_MostrarTapas$1$1.class
 your\company\Presentacion\Tabs$1.class
 your\company\Dominio\Cliente\GestorEliminarTapa.class
+your\company\Presentacion\Menu_Registrarse$2.class
 your\company\Presentacion\Anadir_tapa$1.class
 your\company\Presentacion\Menu_IniciarSesion.class
 your\company\Dominio\Servidor\GestorRegistrarServer.class
@@ -32,7 +34,9 @@ your\company\Presentacion\Anadir_tapa$4.class
 your\company\Dominio\Cliente\Usuario.class
 your\company\Presentacion\Menu_IniciarSesion$2.class
 your\company\Presentacion\FragmentBuscarTapas.class
+your\company\Presentacion\Menu_Registrarse$3.class
 your\company\Dominio\Cliente\GestorConsultarTapas.class
+your\company\Presentacion\Menu_Registrarse.class
 your\company\R$dimen.class
 your\company\Persistencia\Agente.class
 your\company\Presentacion\Anadir_tapa$3.class
@@ -57,6 +61,7 @@ your\company\Presentacion\FragmentBuscarTapas$1.class
 your\company\Dominio\Cliente\GestorConsultarTapaPorCodigo.class
 your\company\Dominio\Servidor\BarDAO.class
 your\company\Presentacion\Eliminar_tapa$3.class
+your\company\Presentacion\Menu_Registrarse$4.class
 your\company\Presentacion\Tabs.class
 your\company\Dominio\Servidor\UsuarioDAO.class
 your\company\Dominio\Servidor\Tapa.class
@@ -67,6 +72,7 @@ your\company\R$attr.class
 your\company\Dominio\Cliente\Administrador.class
 your\company\Presentacion\FragmentPageAdapter.class
 your\company\Presentacion\Anadir_tapa$5.class
+your\company\Dominio\Cliente\GestorRegistrar.class
 your\company\Dominio\Servidor\Administrador.class
 your\company\Dominio\Servidor\GestorServidor.class
 your\company\Presentacion\Anadir_tapa$2.class

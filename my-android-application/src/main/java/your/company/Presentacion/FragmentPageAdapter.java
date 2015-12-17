@@ -16,7 +16,7 @@ public class FragmentPageAdapter extends FragmentPagerAdapter {
             case 0:
 //                return new FragmentVotar();
             case 1:
-//                return new FragmentBuscarTapas();
+                return new FragmentBuscarTapas();
 //            case 2:
 //                return new FragmentBuscarBar();
             default:

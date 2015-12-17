@@ -61,9 +61,9 @@ public class IU_Movil extends Activity implements View.OnClickListener {
                 popupMenu.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {
                     public boolean onMenuItemClick(MenuItem item) {
                         switch (item.getItemId()) {
-//                            case R.id.registrarse:
-//                                startActivity(new Intent(IU_Movil.this, Menu_Registrarse.class));
-//                                return true;
+                            case R.id.registrarse:
+                                startActivity(new Intent(IU_Movil.this, Menu_Registrarse.class));
+                                return true;
                             case R.id.iniciar_sesion:
                                 Intent i = new Intent(IU_Movil.this, Menu_IniciarSesion.class);
                                 startActivityForResult(i, 2);

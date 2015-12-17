@@ -21,11 +21,11 @@ public class GestorClienteMovil {
 	 * @param password
 	 * @param email
 	 */
-//	public boolean registrarse(String usuario, String password, String email) {
-//		Usuario user = new Usuario(usuario, password, email);
-//		GestorRegistrar gestorRegistrar = new GestorRegistrar();
-//		return gestorRegistrar.registrar(user);
-//	}
+	public boolean registrarse(String usuario, String password, String email) {
+		Usuario user = new Usuario(usuario, password, email);
+		GestorRegistrar gestorRegistrar = new GestorRegistrar();
+		return gestorRegistrar.registrar(user);
+	}
 
 	/**
 	 * 
