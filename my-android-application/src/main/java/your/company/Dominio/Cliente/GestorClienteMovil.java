@@ -42,17 +42,17 @@ public class GestorClienteMovil {
 	 * @param codigo
 	 * @param puntuacion
 	 */
-//	public boolean votar(int idBar, int codigo, float puntuacion) {
-//		GestorConsultarTapaPorCodigo gctpc = new GestorConsultarTapaPorCodigo();
-//		Tapa tapa = gctpc.consultarTapa(codigo);
-//		if(tapa!=null){
-//			GestorVotar gestorVotar = new GestorVotar();
-//			return gestorVotar.votar(tapa, puntuacion);
-//		}
-//		else
-//			return false;
-//
-//	}
+	public boolean votar(int idBar, int codigo, float puntuacion) {
+		GestorConsultarTapaPorCodigo gctpc = new GestorConsultarTapaPorCodigo();
+		Tapa tapa = gctpc.consultarTapa(codigo);
+		if(tapa!=null){
+			GestorVotar gestorVotar = new GestorVotar();
+			return gestorVotar.votar(tapa, puntuacion);
+		}
+		else
+			return false;
+
+	}
 
 	public boolean anadirTapa(Tapa tapa){
         GestorAnadirTapa gestorAnadirTapa = new GestorAnadirTapa();

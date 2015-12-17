@@ -13,12 +13,14 @@ your\company\R$string.class
 your\company\Presentacion\Menu_MostrarTapas$1$1.class
 your\company\Presentacion\Tabs$1.class
 your\company\Dominio\Cliente\GestorEliminarTapa.class
+your\company\Presentacion\Menu_Votar$1.class
 your\company\Presentacion\Menu_Registrarse$2.class
 your\company\Presentacion\Anadir_tapa$1.class
 your\company\Presentacion\Menu_IniciarSesion.class
 your\company\Dominio\Servidor\GestorRegistrarServer.class
 your\company\Presentacion\Menu_IniciarSesion$3.class
 your\company\Dominio\Servidor\AdministradorDAO.class
+your\company\Presentacion\Menu_Votar$4.class
 your\company\Comunicacion\SocketMovil.class
 your\company\R$id.class
 your\company\Dominio\Servidor\GestorAnadirBarServer.class
@@ -33,7 +35,10 @@ your\company\Manifest.class
 your\company\Presentacion\Anadir_tapa$4.class
 your\company\Dominio\Cliente\Usuario.class
 your\company\Presentacion\Menu_IniciarSesion$2.class
+your\company\Dominio\Cliente\GestorVotar.class
+your\company\Presentacion\FragmentVotar.class
 your\company\Presentacion\FragmentBuscarTapas.class
+your\company\Presentacion\Menu_Votar.class
 your\company\Presentacion\Menu_Registrarse$3.class
 your\company\Dominio\Cliente\GestorConsultarTapas.class
 your\company\Presentacion\Menu_Registrarse.class
@@ -45,6 +50,7 @@ your\company\Presentacion\Eliminar_tapa$2.class
 your\company\Presentacion\Anadir_tapa.class
 your\company\Presentacion\IU_Movil_Premium.class
 your\company\Dominio\Servidor\Bar.class
+your\company\Presentacion\Menu_Votar$2.class
 your\company\R$layout.class
 your\company\Dominio\Servidor\GestorClienteMovil.class
 your\company\Presentacion\FragmentBuscarTapas$2.class
@@ -60,8 +66,10 @@ your\company\R.class
 your\company\Presentacion\FragmentBuscarTapas$1.class
 your\company\Dominio\Cliente\GestorConsultarTapaPorCodigo.class
 your\company\Dominio\Servidor\BarDAO.class
+your\company\Dominio\Cliente\GestorCargarTapas.class
 your\company\Presentacion\Eliminar_tapa$3.class
 your\company\Presentacion\Menu_Registrarse$4.class
+your\company\Presentacion\Menu_Votar$3.class
 your\company\Presentacion\Tabs.class
 your\company\Dominio\Servidor\UsuarioDAO.class
 your\company\Dominio\Servidor\Tapa.class

@@ -14,7 +14,7 @@ public class FragmentPageAdapter extends FragmentPagerAdapter {
         // TODO Auto-generated method stub
         switch (arg0) {
             case 0:
-//                return new FragmentVotar();
+                return new FragmentVotar();
             case 1:
                 return new FragmentBuscarTapas();
 //            case 2:

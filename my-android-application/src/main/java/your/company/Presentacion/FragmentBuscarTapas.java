@@ -75,19 +75,19 @@ public class FragmentBuscarTapas extends Fragment implements View.OnClickListene
     }
 
     public void onClick(View view) {
-//        switch (view.getId()) {
-//            case R.id.Votar_premium:
-//                startActivity(new Intent(getActivity(), Menu_Votar.class));
-////                getFragmentManager().beginTransaction()
-////                        .replace(R.id.container, Menu_Votar.newInstance())
-////                        .commit();
-//                break;
+        switch (view.getId()) {
+            case R.id.Votar_premium:
+                startActivity(new Intent(getActivity(), Menu_Votar.class));
+//                getFragmentManager().beginTransaction()
+//                        .replace(R.id.container, Menu_Votar.newInstance())
+//                        .commit();
+                break;
 //            case R.id.cerrar_sesion:
 //
 //                break;
-//            default:
-//                break;
-//        }
+            default:
+                break;
+        }
     }
 
     private ArrayList<Bar> cargarBares() {

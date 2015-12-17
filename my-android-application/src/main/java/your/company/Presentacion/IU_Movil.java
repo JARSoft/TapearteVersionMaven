@@ -52,7 +52,7 @@ public class IU_Movil extends Activity implements View.OnClickListener {
 //                SocketMovil.realizarPeticion(componentes, 0);
 //                System.out.println("Exito!");
 
-                //todo startActivity(new Intent(this, Menu_Votar.class));
+                startActivity(new Intent(this, Menu_Votar.class));
 
                 break;
             }
